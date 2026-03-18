@@ -14,7 +14,7 @@ Close and reopen PowerShell after this.
 
 ### Step 2 — Download the project
 ```
-git clone https://github.com/YOURUSERNAME/asifa-ai.git
+git clone https://github.com/Hassan-Buger/asifa-ai.git
 cd asifa-ai
 ```
 
