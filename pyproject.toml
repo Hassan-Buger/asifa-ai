@@ -1,0 +1,13 @@
+[project]
+name = "asifa-ai"
+version = "2.0.0"
+requires-python = ">=3.10"
+dependencies = [
+    "openai-agents",
+    "python-dotenv",
+    "rich",
+    "prompt_toolkit",
+]
+
+[project.scripts]
+rana_1 = "main:run"
